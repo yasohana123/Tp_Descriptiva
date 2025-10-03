@@ -1,4 +1,9 @@
 # Tp_Descriptiva
+
+**Proyecto:**
+
+Realizar clusters de clientes para segmentar campañas de marketing
+
 **Descripción deL datasets:**
 
 _Dataset_: Brazilian E-Commerce Public Dataset by Olist [https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce].
@@ -54,11 +59,9 @@ _Diagnóstico_:
 - ¿Existe relación entre el método de pago y la probabilidad de cancelación o retraso?
 
 _Predictivo_:
-- ¿Qué probabilidad tiene un cliente de recomprar en los próximos meses (por ejemplo en 60/90 días) según su historial?
-- ¿Podemos predecir el segmento futuro de un cliente nuevo a partir de sus primeras compras?
-- ¿Qué características permiten anticipar si un cliente pertenece a un cluster de alto valor (ticket promedio alto, alta frecuencia)?
-- ¿Se puede anticipar la probabilidad de retraso según ciudad, categoría de producto o método de pago?
-- ¿Cómo varía la demanda por temporada (por ejemplo, en Black Friday)?
+- ¿Existen patrones de recurrencia entre los clientes?
+- ¿Cómo se diferencian los clientes en términos de ticket promedio y gasto total?
+- ¿Se observan diferencias en el comportamiento de los clientes según su localización geográfica?
 
 _Prescriptivo_:
 - ¿Qué estrategia de marketing conviene aplicar en cada cluster de clientes (ej. descuentos, retención)?
